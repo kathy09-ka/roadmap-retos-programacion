@@ -1,0 +1,35 @@
+#https://www.python.org/
+
+"""
+aplica en varias lineas 
+de texto
+"""
+
+'''
+aplica en varias
+lineas de texto
+'''
+
+
+#aplica solo en una linea de texto
+
+my_age = 18
+print(my_age)
+
+#***************
+my_name = "kathya"
+print(type(my_name))
+
+my_age = 18
+print(type(my_age))
+
+temperatura = 42.12
+print (type(temperatura))  
+
+divorciado = True
+print (type(divorciado))
+
+#******************
+
+lenguaje = "¡Hola Python!"
+print (lenguaje)
